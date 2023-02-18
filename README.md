@@ -5,6 +5,6 @@ Status do projeto: Em desenvolvimento
 Para rodar este projeto na sua maquina por favor rode:
 
 ````
-node app.hjs
+node app.js
 
 ````
